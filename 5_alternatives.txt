@@ -1,0 +1,6 @@
+To make it more readable, it will not allow access to array indexes using square brackets (entities[1]).
+I would use dot notation eg: entities.1
+Also to improve the exercise I would add logging and pandas to create a dataframe and be able to manipulate the data obtained
+Doing the exercise was fun for me. 
+I would like to receive some feedback about the code, and how you would improve it. 
+Thank you very much

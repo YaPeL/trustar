@@ -1,0 +1,14 @@
+{
+    "guid": "1234",
+    "content": {
+        "type": "text/html",
+        "title": "Challenge 1",
+        "entities": [
+            "1.2.3.4",
+            "wannacry",
+            "malware.com"
+        ]
+    },
+    "score": 74,
+    "time": 1574879179
+}
